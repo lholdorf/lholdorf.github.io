@@ -18,4 +18,4 @@ I think this divergence in creative value stems from how each domain is practice
 
 Creating art, however, is completely different. There is no concept of correct here (some people would argue otherwise, but this is a topic for another post). In this domain, there is no single mechanism, or finite comprehensive set of rules that an AI can use to verify it is generating something that is valuable. The process of training AI is, by design, creating a set of rules to dictate its output. This is why all AI generated art is the same and feels like nothing. It is following the rules. For me, the true value of art lies in the divergence from rules and expectations. 
 
-Overall, It’s a fascinating duality of creative efforts. AI is simultaneously generating incredible novel solutions to some of humanities hardest problems as well as the worst, most valueless art possible. 
+Overall, it’s a fascinating duality of creative efforts. AI is simultaneously generating incredible novel solutions to some of humanities hardest problems as well as the worst, most valueless art possible. 
