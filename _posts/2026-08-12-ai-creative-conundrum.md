@@ -6,9 +6,9 @@ date: 2026-08-12
 
 ## Can AI be creative? Is there any creative value in AI generated content?
 
-![](../assets/IMG_0081.jpeg)
+![something I created](../assets/IMG_0081.jpeg)
 
-Recently, I’ve been looking at AI through the lens of creativity and creative value. On one hand, I see the endless onslaught of AI generated posters that all look exactly the same. A cluttered layout, bold colours, tacky fonts and general lack of soul. They feel like nothing. Maybe you could argue that it’s creative in the sense that it is something ‘new’ - I have never seen a poster as uninspiring and emotionless as the AI generated ones. To me though, the creative value of this type of content is basically zero. There is no value for the person who created it (the process of doing it yourself, in my opinion, is the valuable part) and there is no value for me, the person who consumes it (it feels like nothing). It’s not just posters, I put AI generated music, art, writing in the same boat as well. 
+Recently, I’ve been looking at AI through the lens of creativity and creative value. On one hand, I see the endless onslaught of AI generated posters. They all look exactly the same; a cluttered layout, bold colours, tacky fonts and general lack of soul. They feel like nothing. Maybe you could argue that it’s creative in the sense that it is something ‘new’ - I have never seen a poster as uninspiring and emotionless as the AI generated ones. To me though, the creative value of this type of content is basically zero. There is no value for the person who created it (the process of doing it yourself, in my opinion, is the valuable part) and there is no value for me, the person who consumes it (it feels like nothing). It’s not just posters, I put AI generated music, art, writing in the same boat as well. 
 
 On the other hand, [I read blog posts](https://openai.com/index/ten-advances-in-mathematics/) about frontier AI models generating novel solutions to unsolved mathematical problems by themselves. Novel problem solving is a deeply creative domain, and AI seems to be rapidly improving here. This type of generated content also has genuine creative value. It helps advance human understanding of mathematics and the world around us. Not to mention the potential second, third, fourth, … order benefits this new understanding creates e.g. inspiring further discoveries.
 
