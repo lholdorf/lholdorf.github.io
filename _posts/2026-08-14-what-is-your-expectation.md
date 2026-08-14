@@ -22,6 +22,6 @@ Why is this a valuable question to ask? In my experience, it has a great way of 
 
 Really, it wasn’t that I didn’t like country music, it was that I was expecting to hear crunchy guitars, kick drums faster than Usain Bolt and someone screaming in my face. Objectively, it’s pretty silly to expect this in the context of a beautiful country ballad. Maybe if I had asked the question “what was I expecting?” back then, I could have become aware of my silly bias. 
 
-Furthermore, if I was able to let go of my expectation in that moment, maybe I could have enjoyed more slim dusty. This is quite an extreme example, but in my experience, these biases can exist in far more nuanced ways too e.g. the piano solo that you expected to finish earlier. 
+Furthermore, and most importantly, if I was able to _let go_ of my expectation in that moment, maybe I could have enjoyed more slim dusty. This is quite an extreme example, but in my experience, these biases can exist in far more nuanced ways too e.g. the piano solo that you expected to finish earlier. 
 
 Ultimately, the end goal to reach by asking “what was I expecting?” is to actually let go of all expectations. Purposefully have _no_ expectations. Why? There is far more joy to be found this way. Letting the music be what it is, not expecting it to be something, or fit your taste, is incredibly freeing and (in my experience) leads to appreciation that you didn’t know you were capable of. For me, that is worth doing.
