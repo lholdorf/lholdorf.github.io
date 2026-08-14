@@ -16,7 +16,7 @@ I’ve experienced this situation countless times over. Sometimes the friend is 
 
 How could you make this a valuable moment for yourself? Well, you could start by decomposing and acknowledging what you didn’t like about it. “There was nothing happening for the first thirty seconds, I got bored” for example. This is a great first step, understanding what you didn’t like. 
 
-I’ve found that there’s another very valuable step you can take here though. Instead of asking yourself “what didn’t I like?”, you ask yourself, “what was I expecting?” When the guitarist had been peddling on the same note for thirty seconds and you skipped the song, what did you want to happen instead? 
+I’ve found that there’s another very valuable step you can take here though. Instead of asking yourself “what didn’t I like?”, you ask yourself, “what was I expecting?”. When the guitarist had been peddling on the same note for thirty seconds and you skipped the song, what did you want to happen instead? 
 
 Why is this a valuable question to ask? In my experience, it has a great way of exposing silly biases in your ‘taste’. When I was growing up, I went through a multi year phase where I only listened to metal music. I loved the explosive energy, thick guitars, heavy smacking drums. Slim Dusty comes on? Skipped. Why? “I don’t like country music”. 
 
