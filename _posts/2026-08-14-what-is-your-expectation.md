@@ -4,7 +4,9 @@ title: "What is your expectation?"
 date: 2026-08-14
 ---
 
-## There is joy hiding right around the corner 
+## There is joy hiding right around the corner
+
+![something I created](/assets/IMG_0119.jpeg)
 
 You’re listening to a music playlist on your phone and a new song you’ve never heard comes on. The band starts; they are soft, the guitarist peddling on single note, drums barely audible, piano floating around the room. It continues further, it’s been maybe thirty seconds now and they are still peddling. Suddenly, you skip it. 
 
