@@ -8,7 +8,7 @@ date: 2026-08-14
 
 ![art I created](/assets/IMG_0119.jpeg)
 
-You’re listening to a music playlist on your phone and a new song you’ve never heard comes on. The band starts; they are soft, the guitarist peddling on single note, drums barely audible, piano floating around the room. It continues further, it’s been maybe thirty seconds now and they are still peddling. Suddenly, you skip it. 
+You’re listening to a music playlist on your phone and a new song you’ve never heard comes on. The band starts; they are soft, the guitarist peddling on a single note, drums barely audible, piano floating around the room. It continues further, it’s been maybe thirty seconds now and they are still peddling. Suddenly, you skip it. 
 
 Your friend asks, “why’d you skip that?”. Quickly, you reply “oh, I didn’t like it”. That’s where the conversation ends, the night continues on and skipping that song is never thought about again. 
 
