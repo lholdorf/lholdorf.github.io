@@ -16,7 +16,7 @@ Remember, your instrument creates sound. Seemingly infinite sounds actually, you
 
 Remember, your instrument creates sound. What do you want to sound like? You can express yourself.
 
-Remember, your instrument creates sound. Choose the appropriate sound for the context you are in.
+Remember, your instrument creates sound. Choose the sound for the context you are in.
 
 Remember, your instrument creates sound. Practice how you want to sound.
 
