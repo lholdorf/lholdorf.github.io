@@ -4,7 +4,7 @@ title: "Remember, your instrument creates sound"
 date: 2026-08-25
 ---
 
-## A diary entry from a musician
+## A diary entry from an artist
 
 Admittedly, this is a letter for myself; to remind me when I get distracted (yet) again. Maybe you will find it helpful too.
 
