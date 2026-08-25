@@ -6,7 +6,7 @@ date: 2026-08-25
 
 ## A diary entry from a musician
 
-Admittedly, this is a letter for myself; to remind me when I get distracted (yet) again. 
+Admittedly, this is a letter for myself; to remind me when I get distracted (yet) again. Maybe you will find it helpful too.
 
 Remember, your instrument creates sound. You should listen to it.
 
