@@ -4,7 +4,7 @@ title: "Remember, your instrument creates sound"
 date: 2026-08-25
 ---
 
-## A diary entry from an aspiring artist
+## How hard can it be?
 
 ![art I created](/assets/IMG_0074.png)
 
@@ -23,3 +23,5 @@ Remember, your instrument creates sound. Choose the sound for the context you ar
 Remember, your instrument creates sound. Practice how you want to sound.
 
 Remember, your instrument creates sound. The audience can hear and feel how you sound.
+
+Remember, your instrument creates sound.
