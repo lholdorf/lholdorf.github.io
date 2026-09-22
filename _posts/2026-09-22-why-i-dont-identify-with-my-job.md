@@ -1,0 +1,15 @@
+Why I don’t identify with my job 
+
+Who are you? I’m an engineer. I told myself and others this for a while. The identity had been created in my head. I was identifying with my job. There’s nothing inherently wrong with this, I see people doing it all the time. A few years into my engineering career though, I found myself letting go of this type of identity.
+
+When I identified with my job, interactions at work could feel deeply personal. Disagreements with colleagues about ideas were interpreted as mini personal attacks; my engineering ideas were synonymous with my identity. On the flip side, a colleagues’ praise on work I had done was the short shot of dopamine that confirmed and reassured my identity, in turn driving most of my motivation to show up each morning.
+
+I eventually understood that this wasn’t sustainable. Firstly, people disagree with me all the time (and so they should). Taking these interactions personally was exhausting. Secondly, praise is usually few and far between. Hardly a reliable and sustainable source of motivation every day.
+
+Letting go of the identity attachment has freed up my energy, allowing me to point it in more useful/productive directions. Take the example of a technical disagreement with a colleague. Instead of worrying and getting anxious, or frantically planning a rebuttal that’s baked in fear, it’s now far easier to have a productive conversation and explore the problem in a healthy way; ultimately leading to better outcomes for everyone involved. 
+
+It’s not just limited to disagreements too. A work presentation that I was nervous about was actually rooted in me fearing how my identity was going to be portrayed (and judged). Letting go of this means I can spend more time and energy actually making the presentation engaging, worthwhile etc. There’s many other examples of this same pattern that I’ve uncovered over time, and I’m sure there’s plenty more I’ve yet to discover. 
+
+Cutting the reliance on others praise was challenging at first. It felt like I had to find new sources of motivation/fulfilment at work to fill the gap. I eventually learnt that it is a genuine _privilege_ to wake up each morning with a job I (mostly) enjoy and have a choice on how I want to show up at work. These days, this is all the motivation I need to choose to apply myself as best I can. As you could expect, approaching work in this way has allowed me to perform at a higher level more consistently.
+
+Not identifying with my job is a personal path that I have chosen to walk. It is one that I have found to be beneficial for me. It is not a binary switch, however. I must walk that path every day. That is not easy, and I still get lost along the way. I have experienced some of the benefits of following this path though, which keeps me coming back for more.
