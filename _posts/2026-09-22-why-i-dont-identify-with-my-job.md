@@ -4,6 +4,8 @@ title: "Why I don't identify with my job"
 date: 2026-09-22
 ---
 
+![art I created](/assets/IMG_0077.png)
+
 Who are you? I’m an engineer. I told myself and others this for a while. The identity had been created in my head. I was identifying with my job. There’s nothing inherently wrong with this, I see people doing it all the time. A few years into my engineering career though, I found myself letting go of this type of identity.
 
 When I identified with my job, interactions at work could feel deeply personal. Disagreements with colleagues about ideas were interpreted as mini personal attacks; my engineering ideas were synonymous with my identity. On the flip side, a colleagues’ praise on work I had done was the short shot of dopamine that confirmed and reassured my identity, in turn driving most of my motivation to show up each morning.
