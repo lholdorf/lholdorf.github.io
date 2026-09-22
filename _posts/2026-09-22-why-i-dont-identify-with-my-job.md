@@ -1,4 +1,8 @@
-Why I don’t identify with my job 
+---
+layout: post
+title: "Why I don't identify with my job"
+date: 2026-09-22
+---
 
 Who are you? I’m an engineer. I told myself and others this for a while. The identity had been created in my head. I was identifying with my job. There’s nothing inherently wrong with this, I see people doing it all the time. A few years into my engineering career though, I found myself letting go of this type of identity.
 
